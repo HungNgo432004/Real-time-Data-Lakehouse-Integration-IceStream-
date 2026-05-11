@@ -1,0 +1,8 @@
+kafka-python==2.0.2
+psycopg2-binary==2.9.9
+mysql-connector-python==9.2.0
+schedule==1.2.2
+confluent-kafka==2.8.0
+pyiceberg[pyarrow,s3fs,sql]==0.8.1
+pandas==2.2.3
+duckdb==1.1.2
